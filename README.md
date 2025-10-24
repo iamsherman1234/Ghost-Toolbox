@@ -11,7 +11,7 @@
 - Find the file called `nhcolor.exe` in the downloaded folder
 - Copy this file to your `C:\Windows\System32` folder
 - *(This file enables colorful text and verifies Ghost Spectre OS compatibility)*
-
+- Copy all the dll files to `C:\Windows\System32` folder
 ### Step 3: Run the Toolbox
 - Right-click on `Ghost Toolbox.cmd` 
 - Select **"Run as Administrator"**
